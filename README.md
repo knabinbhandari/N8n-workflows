@@ -20,3 +20,5 @@ The Replicate API takes this prompt and returns a unique cake design.
 Image Delivery:
 The Download Image node processes the image URL, and the Respond to Requests node sends the final cake image back to the user.
 
+Link to Live Demo: https://calm-cendol-1a3ff2.netlify.app/
+
